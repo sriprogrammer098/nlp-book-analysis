@@ -1,0 +1,16 @@
+## What is this project about?
+- Book analysis with Python
+  - Regular Expressions (Regex)
+  - Sentiment Analysis
+- Jupyter lab, regex, nltk utilized
+  - Regex Patterns:
+    - Extract how many chapters the book contains
+    - Extract the most used words
+    - Extract paragraphs where a specific word is used
+    - Define a function and extract occurrence of any given word in the book
+    - Display exception when user tries to find a word that wasn't in the book
+    - Extract sentences where a specific word is used
+  - Sentiment analysis with nltk library:
+    - Extract only non-article words from book by excluding stopwords
+    - Analyze the positivity and negativity polarized scores of the book with SentimentIntensityAnalyzer
+    - Analyze the positivity and negativity polarized scores of each chapter with SentimentIntensityAnalyzer

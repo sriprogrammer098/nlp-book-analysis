@@ -1,0 +1,12 @@
+## What is this project about?
+- Book analysis with Python
+  - Regular Expressions (Regex)
+  - Sentiment Analysis
+- Jupyter lab utilized
+  - Regex Patterns:
+    - Extract how many chapters the book contains
+    - Extract the most used words
+    - Extract paragraphs where a specific word is used
+    - Define a function and extract occurrence of any given word in the book
+    - Display exception when user tries to find a word that wasn't in the book
+    - Extract sentences where a specific word is used
